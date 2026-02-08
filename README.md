@@ -9,7 +9,7 @@ These projects are designed to reflect real-world freelance and business analysi
 
 ## Projects
 - Sales Performance & Customer Insights (Excel & SQL)
-- Expense & Profit Tracker (Excel, SQL, optional Python)
+- Expense & Profit Tracker (Excel, SQL, Python)
 
 More projects will be added as the portfolio grows.
 
