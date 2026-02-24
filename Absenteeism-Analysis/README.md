@@ -8,6 +8,12 @@ This project analyzes employee absenteeism records using SQL (SQLite) to uncover
 - SQL (GROUP BY, AVG, COUNT, CASE WHEN)
 - Excel (dashboarding – next step)
 
+## Data Preparation
+-Data imported into SQLite
+-Column handling (quotes for spaces)
+-Grouping using CASE statements
+-Exported grouped outputs to CSV
+
 ## Key Findings
 - Overall average absenteeism per incident: **6.92 hours**
 - Highest absenteeism month: **Month 7**
